@@ -1,5 +1,7 @@
 # Prometheus Logging Library
 
+**Deprecated: This repository is superseded by [common/log](https://github.com/prometheus/common/tree/master/log).**
+
 Standard logging library for Go-based Prometheus components.
 
 This library wraps
